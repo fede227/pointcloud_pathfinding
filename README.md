@@ -1,7 +1,9 @@
 # PointCloud Pathfinding with Python
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Open3D](https://img.shields.io/badge/Open3D-FC4F37?style=flat&logoColor=white)](http://www.open3d.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+
 This Python script is a tool that I developed to validate my work on LiDAR-based SLAM to use the 3-dimensional map built by the SLAM algorithm to calculate obstacle-free trajectories using the A* algorithm. 
 
 ## Dependencies
