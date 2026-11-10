@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Open3D-FC4F37?style=for-the-badge&logo=open3d&logoColor=white" alt="Open3D" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pillow-3581B8?style=for-the-badge&logo=pillow&logoColor=white" alt="Pillow" />
-  <img src="https://img.shields.io/badge/PX4-0052CC?style=for-the-badge&logo=px4&logoColor=white" alt="PX4 Autopilot" />
 </p>
 This Python script is a tool that I developed to validate my work on LiDAR-based SLAM to use the 3-dimensional map built by the SLAM algorithm to calculate obstacle-free trajectories using the A* algorithm. 
 
